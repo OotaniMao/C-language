@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DxLib2Dgema\\20240521_\u6388\u696D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71E7B439-4098-4EEA-AE5E-72D7F6AC3C7F}|20240521_\u6388\u696D.vcxproj|D:\\DxLib2Dgema\\20240521_\u6388\u696D\\20240521_Prac3_\u5927\u8C37\u771F\u751F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71E7B439-4098-4EEA-AE5E-72D7F6AC3C7F}|20240521_\u6388\u696D.vcxproj|solutionrelative:20240521_Prac3_\u5927\u8C37\u771F\u751F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E7B439-4098-4EEA-AE5E-72D7F6AC3C7F}|20240521_\u6388\u696D.vcxproj|D:\\DxLib2Dgema\\20240521_\u6388\u696D\\20240521_Prac2_\u5927\u8C37\u771F\u751F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71E7B439-4098-4EEA-AE5E-72D7F6AC3C7F}|20240521_\u6388\u696D.vcxproj|solutionrelative:20240521_Prac2_\u5927\u8C37\u771F\u751F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E7B439-4098-4EEA-AE5E-72D7F6AC3C7F}|20240521_\u6388\u696D.vcxproj|D:\\DxLib2Dgema\\20240521_\u6388\u696D\\20240521_sub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71E7B439-4098-4EEA-AE5E-72D7F6AC3C7F}|20240521_\u6388\u696D.vcxproj|solutionrelative:20240521_sub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E7B439-4098-4EEA-AE5E-72D7F6AC3C7F}|20240521_\u6388\u696D.vcxproj|D:\\DxLib2Dgema\\20240521_\u6388\u696D\\20240521_Prac1_\u5927\u8C37\u771F\u751F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71E7B439-4098-4EEA-AE5E-72D7F6AC3C7F}|20240521_\u6388\u696D.vcxproj|solutionrelative:20240521_Prac1_\u5927\u8C37\u771F\u751F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E7B439-4098-4EEA-AE5E-72D7F6AC3C7F}|20240521_\u6388\u696D.vcxproj|D:\\DxLib2Dgema\\20240521_\u6388\u696D\\20240521_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71E7B439-4098-4EEA-AE5E-72D7F6AC3C7F}|20240521_\u6388\u696D.vcxproj|solutionrelative:20240521_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240521_Prac3_\u5927\u8C37\u771F\u751F.cpp",
+              "DocumentMoniker": "D:\\DxLib2Dgema\\20240521_\u6388\u696D\\20240521_Prac3_\u5927\u8C37\u771F\u751F.cpp",
+              "RelativeDocumentMoniker": "20240521_Prac3_\u5927\u8C37\u771F\u751F.cpp",
+              "ToolTip": "D:\\DxLib2Dgema\\20240521_\u6388\u696D\\20240521_Prac3_\u5927\u8C37\u771F\u751F.cpp",
+              "RelativeToolTip": "20240521_Prac3_\u5927\u8C37\u771F\u751F.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T06:34:39.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240521_Prac2_\u5927\u8C37\u771F\u751F.cpp",
+              "DocumentMoniker": "D:\\DxLib2Dgema\\20240521_\u6388\u696D\\20240521_Prac2_\u5927\u8C37\u771F\u751F.cpp",
+              "RelativeDocumentMoniker": "20240521_Prac2_\u5927\u8C37\u771F\u751F.cpp",
+              "ToolTip": "D:\\DxLib2Dgema\\20240521_\u6388\u696D\\20240521_Prac2_\u5927\u8C37\u771F\u751F.cpp",
+              "RelativeToolTip": "20240521_Prac2_\u5927\u8C37\u771F\u751F.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T06:18:53.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240521_sub.cpp",
+              "DocumentMoniker": "D:\\DxLib2Dgema\\20240521_\u6388\u696D\\20240521_sub.cpp",
+              "RelativeDocumentMoniker": "20240521_sub.cpp",
+              "ToolTip": "D:\\DxLib2Dgema\\20240521_\u6388\u696D\\20240521_sub.cpp",
+              "RelativeToolTip": "20240521_sub.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T06:09:48.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240521_Prac1_\u5927\u8C37\u771F\u751F.cpp",
+              "DocumentMoniker": "D:\\DxLib2Dgema\\20240521_\u6388\u696D\\20240521_Prac1_\u5927\u8C37\u771F\u751F.cpp",
+              "RelativeDocumentMoniker": "20240521_Prac1_\u5927\u8C37\u771F\u751F.cpp",
+              "ToolTip": "D:\\DxLib2Dgema\\20240521_\u6388\u696D\\20240521_Prac1_\u5927\u8C37\u771F\u751F.cpp",
+              "RelativeToolTip": "20240521_Prac1_\u5927\u8C37\u771F\u751F.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T05:14:53.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240521_main.cpp",
+              "DocumentMoniker": "D:\\DxLib2Dgema\\20240521_\u6388\u696D\\20240521_main.cpp",
+              "RelativeDocumentMoniker": "20240521_main.cpp",
+              "ToolTip": "D:\\DxLib2Dgema\\20240521_\u6388\u696D\\20240521_main.cpp",
+              "RelativeToolTip": "20240521_main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T04:55:50.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DxLib2Dgema\\20240528_\u6388\u696D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8AC20C-58F0-46C3-B47A-81DAD7A17310}|20240528_\u6388\u696D.vcxproj|D:\\DxLib2Dgema\\20240528_\u6388\u696D\\20240528_Prac2_\u5927\u8C37\u771F\u751F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F8AC20C-58F0-46C3-B47A-81DAD7A17310}|20240528_\u6388\u696D.vcxproj|solutionrelative:20240528_Prac2_\u5927\u8C37\u771F\u751F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8AC20C-58F0-46C3-B47A-81DAD7A17310}|20240528_\u6388\u696D.vcxproj|D:\\DxLib2Dgema\\20240528_\u6388\u696D\\20240528_Prac1_\u5927\u8C37\u771F\u751F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F8AC20C-58F0-46C3-B47A-81DAD7A17310}|20240528_\u6388\u696D.vcxproj|solutionrelative:20240528_Prac1_\u5927\u8C37\u771F\u751F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8AC20C-58F0-46C3-B47A-81DAD7A17310}|20240528_\u6388\u696D.vcxproj|D:\\DxLib2Dgema\\20240528_\u6388\u696D\\20240528_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F8AC20C-58F0-46C3-B47A-81DAD7A17310}|20240528_\u6388\u696D.vcxproj|solutionrelative:20240528_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240528_Prac2_\u5927\u8C37\u771F\u751F.cpp",
+              "DocumentMoniker": "D:\\DxLib2Dgema\\20240528_\u6388\u696D\\20240528_Prac2_\u5927\u8C37\u771F\u751F.cpp",
+              "RelativeDocumentMoniker": "20240528_Prac2_\u5927\u8C37\u771F\u751F.cpp",
+              "ToolTip": "D:\\DxLib2Dgema\\20240528_\u6388\u696D\\20240528_Prac2_\u5927\u8C37\u771F\u751F.cpp",
+              "RelativeToolTip": "20240528_Prac2_\u5927\u8C37\u771F\u751F.cpp",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAFQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-28T05:24:24.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240528_Prac1_\u5927\u8C37\u771F\u751F.cpp",
+              "DocumentMoniker": "D:\\DxLib2Dgema\\20240528_\u6388\u696D\\20240528_Prac1_\u5927\u8C37\u771F\u751F.cpp",
+              "RelativeDocumentMoniker": "20240528_Prac1_\u5927\u8C37\u771F\u751F.cpp",
+              "ToolTip": "D:\\DxLib2Dgema\\20240528_\u6388\u696D\\20240528_Prac1_\u5927\u8C37\u771F\u751F.cpp",
+              "RelativeToolTip": "20240528_Prac1_\u5927\u8C37\u771F\u751F.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-28T05:10:33.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240528_main.cpp",
+              "DocumentMoniker": "D:\\DxLib2Dgema\\20240528_\u6388\u696D\\20240528_main.cpp",
+              "RelativeDocumentMoniker": "20240528_main.cpp",
+              "ToolTip": "D:\\DxLib2Dgema\\20240528_\u6388\u696D\\20240528_main.cpp",
+              "RelativeToolTip": "20240528_main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-28T04:55:25.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

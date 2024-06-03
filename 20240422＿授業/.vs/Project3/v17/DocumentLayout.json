@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DxLib2Dgema\\Project3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CD8B33-176D-4720-BFD9-CAAE1F25276A}|Project3.vcxproj|D:\\DxLib2Dgema\\Project3\\20240422_Prac2_\u5927\u8C37\u771F\u751F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5CD8B33-176D-4720-BFD9-CAAE1F25276A}|Project3.vcxproj|solutionrelative:20240422_Prac2_\u5927\u8C37\u771F\u751F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CD8B33-176D-4720-BFD9-CAAE1F25276A}|Project3.vcxproj|D:\\DxLib2Dgema\\Project3\\if\u6587.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5CD8B33-176D-4720-BFD9-CAAE1F25276A}|Project3.vcxproj|solutionrelative:if\u6587.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CD8B33-176D-4720-BFD9-CAAE1F25276A}|Project3.vcxproj|D:\\DxLib2Dgema\\Project3\\20240422_Prac1_\u5927\u8C37\u771F\u751F_\u6539\u5584.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5CD8B33-176D-4720-BFD9-CAAE1F25276A}|Project3.vcxproj|solutionrelative:20240422_Prac1_\u5927\u8C37\u771F\u751F_\u6539\u5584.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CD8B33-176D-4720-BFD9-CAAE1F25276A}|Project3.vcxproj|D:\\DxLib2Dgema\\Project3\\20240422_Prac1_\u5927\u8C37\u771F\u751F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5CD8B33-176D-4720-BFD9-CAAE1F25276A}|Project3.vcxproj|solutionrelative:20240422_Prac1_\u5927\u8C37\u771F\u751F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CD8B33-176D-4720-BFD9-CAAE1F25276A}|Project3.vcxproj|D:\\DxLib2Dgema\\Project3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5CD8B33-176D-4720-BFD9-CAAE1F25276A}|Project3.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240422_Prac2_\u5927\u8C37\u771F\u751F.cpp",
+              "DocumentMoniker": "D:\\DxLib2Dgema\\Project3\\20240422_Prac2_\u5927\u8C37\u771F\u751F.cpp",
+              "RelativeDocumentMoniker": "20240422_Prac2_\u5927\u8C37\u771F\u751F.cpp",
+              "ToolTip": "D:\\DxLib2Dgema\\Project3\\20240422_Prac2_\u5927\u8C37\u771F\u751F.cpp",
+              "RelativeToolTip": "20240422_Prac2_\u5927\u8C37\u771F\u751F.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-22T02:59:42.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "if\u6587.cpp",
+              "DocumentMoniker": "D:\\DxLib2Dgema\\Project3\\if\u6587.cpp",
+              "RelativeDocumentMoniker": "if\u6587.cpp",
+              "ToolTip": "D:\\DxLib2Dgema\\Project3\\if\u6587.cpp",
+              "RelativeToolTip": "if\u6587.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-22T02:30:31.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240422_Prac1_\u5927\u8C37\u771F\u751F_\u6539\u5584.cpp",
+              "DocumentMoniker": "D:\\DxLib2Dgema\\Project3\\20240422_Prac1_\u5927\u8C37\u771F\u751F_\u6539\u5584.cpp",
+              "RelativeDocumentMoniker": "20240422_Prac1_\u5927\u8C37\u771F\u751F_\u6539\u5584.cpp",
+              "ToolTip": "D:\\DxLib2Dgema\\Project3\\20240422_Prac1_\u5927\u8C37\u771F\u751F_\u6539\u5584.cpp",
+              "RelativeToolTip": "20240422_Prac1_\u5927\u8C37\u771F\u751F_\u6539\u5584.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-22T02:23:13.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240422_Prac1_\u5927\u8C37\u771F\u751F.cpp",
+              "DocumentMoniker": "D:\\DxLib2Dgema\\Project3\\20240422_Prac1_\u5927\u8C37\u771F\u751F.cpp",
+              "RelativeDocumentMoniker": "20240422_Prac1_\u5927\u8C37\u771F\u751F.cpp",
+              "ToolTip": "D:\\DxLib2Dgema\\Project3\\20240422_Prac1_\u5927\u8C37\u771F\u751F.cpp",
+              "RelativeToolTip": "20240422_Prac1_\u5927\u8C37\u771F\u751F.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-22T01:29:06.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\DxLib2Dgema\\Project3\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\DxLib2Dgema\\Project3\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-22T00:53:07.293Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
